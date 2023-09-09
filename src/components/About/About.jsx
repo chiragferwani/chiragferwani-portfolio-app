@@ -54,7 +54,7 @@ const About = () => {
           who's passionate about computers, a cricket lover and absolutely tech-obsessed!
           </p>
           <div className="flat_button">
-            <a target="_blank" href="/Nidhi-Resume.pdf">
+            <a target="_blank" href="/Chirag-Resume.pdf">
               RESUME
             </a>
           </div>
