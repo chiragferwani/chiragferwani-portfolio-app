@@ -96,15 +96,15 @@ const Contact = () => {
         {/* MAP INFO SECTION */}
 
         <div className="info_map">
-          Nidhi Kumari,
+          Chirag Ferwani,
           <br />
-          India, West Bengal
+          India, Maharashtra
           <br />
-          North 24 Parganas,
+          Kiran Subhchandra, Rahatani
           <br />
-          Kolkata
+          Pune
           <br />
-          <span>kumarinidhimain@gmail.com</span>
+          <span>chiragferwani@gmail.com</span>
         </div>
 
         {/* MAP SECTION */}
@@ -113,7 +113,7 @@ const Contact = () => {
           <MapContainer center={[22.5726, 88.3639]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
             <Marker position={[22.5726, 88.3639]}>
-              <Popup>Nidhi lives here, come over for a cup of coffee :)</Popup>
+              <Popup>Chirag lives here, come over for a cup of coffee :)</Popup>
             </Marker>
           </MapContainer>
         </div>
