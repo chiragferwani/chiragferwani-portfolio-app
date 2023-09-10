@@ -111,9 +111,9 @@ const Contact = () => {
         {/* MAP SECTION */}
 
         <div className="map_wrap">
-          <MapContainer center={[22.5726, 88.3639]} zoom={13}>
+          <MapContainer center={[18.6024, 73.7962]} zoom={14}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[22.5726, 88.3639]}>
+            <Marker position={[18.6024826, 73.7959899]}>
               <Popup>Chirag lives here, come over for a cup of coffee :)</Popup>
             </Marker>
           </MapContainer>
