@@ -8,9 +8,9 @@
   },
   {
     "id":"two",
-    "cover": "https://user-images.githubusercontent.com/77065920/175949916-e08ec179-3c1a-4ffe-966a-3d3dec0445d0.jpg",
-    "title": "SHOPPY",
-    "description": "React, JSX, Tailwind",
+    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/pypassmanager.png?raw=true",
+    "title": "PYPASSMANAGER",
+    "description": "Python",
     "url": "https://shoppy-brown.vercel.app/"
   },
   {
