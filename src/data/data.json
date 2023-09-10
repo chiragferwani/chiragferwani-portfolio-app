@@ -1,7 +1,7 @@
 [
   {
     "id":"one",
-    "cover": "public/workim1.png",
+    "cover": "https://ibb.co/GFfzK4D",
     "title": "PORTFOLIO",
     "description": "React, JSX, SCSS",
     "url": "https://chiragferwani.vercel.app/"
