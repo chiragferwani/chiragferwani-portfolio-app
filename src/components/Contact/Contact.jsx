@@ -50,8 +50,8 @@ const Contact = () => {
             />
           </h1>
           <p>
-            Want to connect? My inbox is always open! Don't hesitate to contact
-            me using below form either.
+          Looking to get in touch? My inbox is at your disposal! 
+          Feel free to reach out to me using the form below; I'm always here to connect.
           </p>
 
           {/* CONTACT FORM SECTION */}
