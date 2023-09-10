@@ -6,10 +6,10 @@
   <a href="https://chiragferwani.vercel.app/">chiragferwani.vercel.app</a>
 </h2>
 
-<!--
+
 <div align="center">
-  <a href="https://nidhikumari.vercel.app/">
-<img width="2277" alt="Group 1" src="https://user-images.githubusercontent.com/77065920/177051557-889ef12c-2d60-4256-a9a2-4c18356a77be.png">
+  <a href="https://chiragferwani.vercel.app/">
+<img width="2277" alt="Group 1" src="public/laptop_image-removebg-preview.png">
   </a>
 </div>
   </div>
@@ -34,7 +34,7 @@
 ✔️ Contact Me
 
 
-To view a live example, **[click here](https://nidhikumari.vercel.app/)**
+To view a live example, **[click here](https://chiragferwani.vercel.app/)**
 
 ## Tools Used 🛠️
 
@@ -46,4 +46,4 @@ To view a live example, **[click here](https://nidhikumari.vercel.app/)**
 
 <br/>
 
--->
+
