@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://chiragferwani.vercel.app/">
-<img width="2277" alt="Group 1" src="public/laptop_image-removebg-preview.png">
+<img width="2277" alt="Group 1" src="public/readmeimg.png">
   </a>
 </div>
   </div>

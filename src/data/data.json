@@ -1,10 +1,10 @@
 [
   {
     "id":"one",
-    "cover": "https://user-images.githubusercontent.com/77065920/176479569-7fec705f-6cc4-4ddd-a9da-0501ff30dbb5.jpg",
+    "cover": "public/workim1.png",
     "title": "PORTFOLIO",
     "description": "React, JSX, SCSS",
-    "url": "https://nidhikumari.vercel.app/"
+    "url": "https://chiragferwani.vercel.app/"
   },
   {
     "id":"two",
