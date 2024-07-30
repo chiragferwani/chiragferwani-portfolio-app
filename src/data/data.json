@@ -1,28 +1,41 @@
 [
   {
     "id":"one",
-    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/workim1.png?raw=true",
-    "title": "PORTFOLIO",
-    "description": "React, JSX, SCSS",
-    "url": "https://chiragferwani.vercel.app/"
+    "cover": "https://github.com/chiragferwani/MatchMaster/blob/main/images/try.png?raw=true",
+    "title": "MatchMaster",
+    "description": "Flutter, Firebase, PHP",
+    "url": "https://github.com/chiragferwani/MatchMaster/tree/main"
   },
   {
     "id":"two",
-    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/pypassmanager.png?raw=true",
-    "title": "PYPassManager",
-    "description": "Python, Tkinter, JSON",
-    "url": "https://github.com/chiragf27/PyPassManager"
+    "cover": "https://github.com/chiragferwani/DialogX/blob/main/Logo/img%20(1).png?raw=true",
+    "title": "DialogX",
+    "description": "Python, Chatbot, DialogGPT",
+    "url": "https://github.com/chiragferwani/DialogX"
   },
   {
     "id":"three",
-    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/vpn.jpg?raw=true",
+    "cover": "https://github.com/chiragferwani/VPNSneakWeb/blob/main/src/assets/vpn.png?raw=true",
     "title": "VPNSneak",
-    "description": "Flutter, RaspberryPi",
-    "url": "https://github.com/chiragf27/VPNSneak"
+    "description": "Flutter, RaspberryPi, ESP32",
+    "url": "http://www.youtube.com/@vpnsneak"
   },
-  
   {
     "id":"four",
+    "cover": "https://github.com/chiragferwani/chiragferwani-portfolio-app/blob/main/src/assets/images/img.png?raw=true",
+    "title": "PORTFOLIO",
+    "description": "React, JSX, SCSS",
+    "url": "https://github.com/chiragferwani/chiragferwani-portfolio-app"
+  },
+  {
+    "id":"five",
+    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/pypassmanager.png?raw=true",
+    "title": "PYPassManager",
+    "description": "Python, Tkinter, JSON",
+    "url": "https://github.com/chiragferwani/PyPassManager"
+  }, 
+  {
+    "id":"six",
     "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/websitepy.png?raw=true",
     "title": "PY Projects",
     "description": "Python Projects",

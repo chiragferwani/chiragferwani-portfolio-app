@@ -98,6 +98,25 @@
         transform: rotateX(90deg);
     }
 }
+@media (max-width: 1440px) and (min-width: 1024px) {
+    .page {
+        .about_page {
+            .text_zone {
+                left: 12%;
+                max-height: 80%;
+                width: 450px;
+            }
+            p {
+                font-size: 16px;
+                font-weight: 500;
+            }
+        }
+        .stage_cube_cont {
+            top: 2%;
+            left: 45%;
+        }
+    }
+}
 @media (max-width: 1024px) and (min-width: 768px) {
     .page {
         .about_page {
@@ -107,7 +126,8 @@
                 width: 350px;
             }
             p {
-                font-size: 12px;
+                font-size: 14px;
+                font-weight: bold;
             }
         }
         .stage_cube_cont {
@@ -126,7 +146,8 @@
                 width: 450px;
             }
             p {
-                font-size: 12px;
+                font-size: 14px;
+                font-weight: bold;
             }
         }
         .stage_cube_cont {
@@ -146,7 +167,9 @@
             }
             p {
                 margin-top: 10px;
-                font-size: 12px;
+                font-size: 14px;
+                font-weight: bold;
+                
             }
         }
         .stage_cube_cont {
@@ -166,7 +189,8 @@
             }
             p {
                 margin-top: 10px;
-                font-size: 12px;
+                font-size: 14px;
+                font-weight: bold;
             }
         }
         .stage_cube_cont {
