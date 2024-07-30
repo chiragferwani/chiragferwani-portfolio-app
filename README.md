@@ -11,11 +11,11 @@
   <a href="https://chiragferwani.vercel.app/">
 <img width="2277" alt="Group 1" src="public/readmeimg.png">
     
-    ![img](https://github.com/user-attachments/assets/d24d6e5f-584d-4f54-89c4-0e4a2e5be0b0)
-
   </a>
 </div>
   </div>
+  ![img](https://github.com/user-attachments/assets/e7967c99-d2c5-43b5-915a-a5b1a49e4624)
+
 ⭐ Star this repo on GitHub — it helps!
 
 ## Features 📋
