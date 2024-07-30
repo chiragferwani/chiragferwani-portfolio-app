@@ -10,6 +10,9 @@
 <div align="center">
   <a href="https://chiragferwani.vercel.app/">
 <img width="2277" alt="Group 1" src="public/readmeimg.png">
+    
+    ![img](https://github.com/user-attachments/assets/d24d6e5f-584d-4f54-89c4-0e4a2e5be0b0)
+
   </a>
 </div>
   </div>
