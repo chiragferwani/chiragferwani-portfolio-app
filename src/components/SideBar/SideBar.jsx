@@ -24,7 +24,7 @@ const SideBar = () => {
     <div className="nav_bar">
       <Link className="logo" to="/">
         <img src={LogoN} alt="logo" />
-        <img src={LogoSubtitle} alt="Nidhi" className="sub_logo" />
+        <img src={LogoSubtitle} alt="Chirag" className="sub_logo" />
       </Link>
       <nav>
         <NavLink exact="true" activeclassname="active" to="/">
@@ -60,7 +60,7 @@ const SideBar = () => {
         </li>
 
         <li>
-          <a href="https://github.com/chiragf27" target="_blank">
+          <a href="https://github.com/chiragferwani" target="_blank">
             <FontAwesomeIcon icon={faGithub} />
           </a>
         </li>
