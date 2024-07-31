@@ -29,13 +29,27 @@
   },
   {
     "id":"five",
+    "cover": "https://github.com/chiragferwani/TabSnoop/blob/main/tab%20snoop%20img.png?raw=true",
+    "title": "TabSnoop",
+    "description": "Chrome Extension",
+    "url": "https://github.com/chiragferwani/TabSnoop"
+  }, 
+  {
+    "id":"six",
+    "cover": "https://github.com/chiragferwani/QuantumFlow/blob/main/src/images/quantum%20flow.png?raw=true",
+    "title": "Quantum Flow",
+    "description": "Java, Logic Gate Emulator",
+    "url": "https://github.com/chiragferwani/QuantumFlow"
+  },
+  {
+    "id":"seven",
     "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/pypassmanager.png?raw=true",
     "title": "PYPassManager",
     "description": "Python, Tkinter, JSON",
     "url": "https://github.com/chiragferwani/PyPassManager"
   }, 
   {
-    "id":"six",
+    "id":"eight",
     "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/websitepy.png?raw=true",
     "title": "PY Projects",
     "description": "Python Projects",
