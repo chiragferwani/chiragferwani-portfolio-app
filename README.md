@@ -14,7 +14,6 @@
   </a>
 </div>
   </div>
-  ![img](https://github.com/user-attachments/assets/e7967c99-d2c5-43b5-915a-a5b1a49e4624)
 
 ⭐ Star this repo on GitHub — it helps!
 
