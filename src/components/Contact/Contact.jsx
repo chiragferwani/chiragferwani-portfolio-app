@@ -5,6 +5,7 @@ import Loader from "react-loaders";
 import "./Contact.scss";
 import AnimatedLetters from "../AnimatedLetters/AnimatedLetters";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
+import Swal from 'sweetalert2'
 
 const Contact = () => {
   const [letterClass, setLetterClass] = useState("text_animate");
@@ -17,25 +18,37 @@ const Contact = () => {
     }, 3000);
   }, []);
 
-  const sendEmail = (e) => {
-    e.preventDefault();
+  const sendEmail = async (event) => {
+    event.preventDefault();
+    const formData = new FormData(event.target);
 
-    emailjs
-      .sendForm(
-        "service_2eapqkq",
-        "template_y8nubg9",
-        form.current,
-        "kTKk2K3cmLUDgwDtz"
-      )
-      .then(
-        () => {
-          alert("Message successfully sent!");
-          window.location.reload(false);
-        },
-        () => {
-          alert("Failed to send the message, please try again");
-        }
-      );
+    formData.append("access_key", "6c08f52e-2721-4159-827b-022e5ded94c9");
+
+    const object = Object.fromEntries(formData);
+    const json = JSON.stringify(object);
+
+    const res = await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json"
+      },
+      body: json
+    }).then(
+      () => {
+        Swal.fire({
+          title: "Success!",
+          text: "Message Sent Successfully!",
+          icon: "success"
+        });
+        setTimeout(function(){
+          window.location.reload(1);
+       }, 5000);
+      },
+      () => {
+        alert("Failed to send the message, please try again");
+      }
+    );
   };
 
   return (
@@ -114,7 +127,7 @@ const Contact = () => {
           <MapContainer center={[18.6024, 73.7962]} zoom={14}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
             <Marker position={[18.6024826, 73.7959899]}>
-              <Popup>Chirag lives here, come over for a cup of coffee :)</Popup>
+              <Popup>Chirag lives here, come over for a cup of coffee:</Popup>
             </Marker>
           </MapContainer>
         </div>

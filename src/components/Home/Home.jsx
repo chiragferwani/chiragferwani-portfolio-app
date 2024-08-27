@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import LogoTitle from "../../assets/images/chirag.png";
 import AnimatedLetters from "../AnimatedLetters/AnimatedLetters";
 // import Logo from "./Logo/Logo";
-import LogoN from "../../assets/images/developer.png";
+import LogoN from "../../assets/images/dev1.png";
 import "./Home.scss";
 import Loader from "react-loaders";
 

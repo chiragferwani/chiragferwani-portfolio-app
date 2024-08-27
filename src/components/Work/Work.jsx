@@ -43,23 +43,14 @@ const Work = () => {
           <AnimatedLetters
             letterClass={letterClass}
             strArray={[
-              "W",
+              "P",
+              "r",
               "o",
-              "r",
-              "k",
-              "",
-              "&",
-              "",
-              "E",
-              "x",
-              "p",
+              "j",
               "e",
-              "r",
-              "i",
-              "e",
-              "n",
               "c",
-              "e",
+              "t",
+              "s"
             ]}
             idx={15}
           />

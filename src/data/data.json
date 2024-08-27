@@ -1,31 +1,58 @@
 [
   {
     "id":"one",
-    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/workim1.png?raw=true",
-    "title": "PORTFOLIO",
-    "description": "React, JSX, SCSS",
-    "url": "https://chiragferwani.vercel.app/"
+    "cover": "https://github.com/chiragferwani/ProfitPulse/blob/main/assets/images/10.png?raw=true",
+    "title": "Profit Pulse",
+    "description": "Flutter, Finance",
+    "url": "https://github.com/chiragferwani/ProfitPulse"
   },
   {
     "id":"two",
-    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/pypassmanager.png?raw=true",
-    "title": "PYPassManager",
-    "description": "Python, Tkinter, JSON",
-    "url": "https://github.com/chiragf27/PyPassManager"
-  },
+    "cover": "https://github.com/chiragferwani/UrbanRoots/blob/main/assets/images/9.png?raw=true",
+    "title": "Urban Roots",
+    "description": "ReactJS, Expo, Hygraph",
+    "url": "https://github.com/chiragferwani/UrbanRoots"
+  }, 
   {
     "id":"three",
-    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/vpn.jpg?raw=true",
-    "title": "VPNSneak",
-    "description": "Flutter, RaspberryPi",
-    "url": "https://github.com/chiragf27/VPNSneak"
+    "cover": "https://github.com/chiragferwani/MatchMaster/blob/main/images/try.png?raw=true",
+    "title": "MatchMaster",
+    "description": "Flutter, Firebase, PHP",
+    "url": "https://github.com/chiragferwani/MatchMaster/tree/main"
   },
-  
   {
     "id":"four",
-    "cover": "https://github.com/chiragf27/chiragferwani/blob/main/public/websitepy.png?raw=true",
-    "title": "PY Projects",
-    "description": "Python Projects",
-    "url": "https://pythonprojects.netlify.app/"
+    "cover": "https://github.com/chiragferwani/VPNSneakWeb/blob/main/src/assets/vpn.png?raw=true",
+    "title": "VPNSneak",
+    "description": "Flutter, RaspberryPi, ESP32",
+    "url": "http://www.youtube.com/@vpnsneak"
+  },
+  {
+    "id":"five",
+    "cover": "https://github.com/chiragferwani/DialogX/blob/main/Logo/img%20(1).png?raw=true",
+    "title": "DialogX",
+    "description": "Python, Chatbot, DialogGPT",
+    "url": "https://github.com/chiragferwani/DialogX"
+  },
+  {
+    "id":"six",
+    "cover": "https://github.com/chiragferwani/chiragferwani-portfolio-app/blob/main/src/assets/images/img.png?raw=true",
+    "title": "PORTFOLIO",
+    "description": "React, JSX, SCSS",
+    "url": "https://github.com/chiragferwani/chiragferwani-portfolio-app"
+  },
+  {
+    "id":"seven",
+    "cover": "https://github.com/chiragferwani/TabSnoop/blob/main/icons/7.png?raw=true",
+    "title": "TabSnoop",
+    "description": "Chrome Extension",
+    "url": "https://github.com/chiragferwani/TabSnoop"
+  }, 
+  {
+    "id":"eight",
+    "cover": "https://github.com/chiragferwani/QuantumFlow/blob/main/src/images/8.png?raw=true",
+    "title": "Quantum Flow",
+    "description": "Java, Logic Gate Emulator",
+    "url": "https://github.com/chiragferwani/QuantumFlow"
   }
 ]

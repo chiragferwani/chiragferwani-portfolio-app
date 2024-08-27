@@ -64,6 +64,11 @@ const SideBar = () => {
             <FontAwesomeIcon icon={faGithub} />
           </a>
         </li>
+        <li>
+          <a href="https://instagram.com/chiragferwani" target="_blank">
+            <FontAwesomeIcon icon={faInstagram} />
+          </a>
+        </li>
 
         <li>
           <a href="https://www.youtube.com/@chiragferwani" target="_blank">

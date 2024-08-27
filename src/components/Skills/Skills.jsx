@@ -20,6 +20,7 @@ import {
   faNodeJs,
   faStackOverflow,
 } from "@fortawesome/free-brands-svg-icons";
+import { faDatabase, faServer } from "@fortawesome/free-solid-svg-icons";
 
 const Skills = () => {
   const [letterClass, setLetterClass] = useState("text_animate");
@@ -42,18 +43,21 @@ const Skills = () => {
             />
           </h1>
           <p>
-            I am a coder who is well versed in technologies like
+            I am a coder who is well versed in technologies like:
             <p></p>
             <span class="tech_tag"> HTML5</span>,
             <span class="tech_tag"> CSS3</span>,
             <span class="tech_tag"> Java</span>,
             <span class="tech_tag"> Python</span>,
             <span class="tech_tag"> Javascript</span>,
+            <span class="tech_tag"> React JS</span>,
+            <span class="tech_tag"> PHP</span>,
             <span class="tech_tag"> C#</span>,
             <span class="tech_tag"> C++</span>,
+            <span class="tech_tag"> MySQL</span>,
             <span class="tech_tag"> Git</span>,
           </p>
-          <p>
+          <p align="JUSTIFY">
           While I may not be a professional designer, I possess a keen eye for aesthetics 
           and have hands-on experience in crafting responsive web designs. I take great care in 
           optimizing my code to ensure an exceptional user experience. 
@@ -69,7 +73,7 @@ const Skills = () => {
               LinkedIn{" "}
             </a>
             and
-            <a target="_blank" href="https://github.com/chiragf274">
+            <a target="_blank" href="https://github.com/chiragferwani">
               {" "}
               Github{" "}
             </a>
@@ -80,7 +84,7 @@ const Skills = () => {
         <div className="logos_container">
           <div className="logos">
             <p>
-              <FontAwesomeIcon icon={faPython} color="#8F0DFF" />
+              <FontAwesomeIcon icon={faPython} color="#B197FC" />
             </p>
             <p>
               <FontAwesomeIcon icon={faJava} color="#F06529" />
@@ -89,10 +93,13 @@ const Skills = () => {
               <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
             </p>
             <p>
-              <FontAwesomeIcon icon={faHtml5} color="#5ED4F4" />
+              <FontAwesomeIcon icon={faHtml5} color="#63E6BE" />
             </p>
             <p>
               <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+            </p>
+            <p>
+              <FontAwesomeIcon icon={faDatabase} color="#7747ff" />
             </p>
             <p>
               <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
@@ -101,10 +108,10 @@ const Skills = () => {
               <FontAwesomeIcon icon={faGithub} color="#050505" />
             </p>
             <p>
-              <FontAwesomeIcon icon={faFigma} color="#fff" />
+              <FontAwesomeIcon icon={faReact} color="#fff" />
             </p>
             <p>
-              <FontAwesomeIcon icon={faStackOverflow} color="#cc5500" />
+              <FontAwesomeIcon icon={faNodeJs} color="#cc5500" />
             </p>
           </div>
         </div>

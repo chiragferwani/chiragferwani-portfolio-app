@@ -37,17 +37,13 @@ const About = () => {
             />
           </h1>
           <p align="JUSTIFY">
-          Hello! 👋 I'm Chirag, currently a sophomore pursuing a BTech in Information Technology. 
+          Hello! 👋 I'm Chirag, currently a sophomore pursuing a BTech in Computer Engineering. 
           I'm an enthusiastic self-learner and constantly exploring and creating projects 👨‍💻 to 
           simplify tasks using various technologies.
           </p>
           <p align="JUSTIFY">
           As an technophile, I'm actively seeking opportunities with established companies, 
           aiming to work on diverse and challenging projects using the latest technologies.
-          </p>
-          <p align="JUSTIFY">
-          I possess a quiet confidence, a natural curiosity, and a genuine passion for 
-          connecting with people while extending a helping hand.
           </p>
           <p align="JUSTIFY">
           If I were to sum myself up in one sentence, I'd say I'm an Engineering Student 
