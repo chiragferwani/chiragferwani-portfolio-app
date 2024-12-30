@@ -60,7 +60,7 @@ const SideBar = () => {
         </li>
 
         <li>
-          <a href="https://github.com/chiragf27" target="_blank">
+          <a href="https://github.com/chiragferwani" target="_blank">
             <FontAwesomeIcon icon={faGithub} />
           </a>
         </li>

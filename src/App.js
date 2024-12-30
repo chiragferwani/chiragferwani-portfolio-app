@@ -7,10 +7,12 @@ import About from "./components/About/About";
 import Skills from "./components/Skills/Skills";
 import Work from "./components/Work/Work";
 import Contact from "./components/Contact/Contact";
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
     <>
+      <Analytics />
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -19,7 +21,9 @@ function App() {
           <Route path="work" element={<Work />} />
           <Route path="contact" element={<Contact />} />
         </Route>
+        
       </Routes>
+
     </>
   );
 }
